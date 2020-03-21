@@ -1,3 +1,5 @@
 This is a first code file
 
 I'm Java Dev and I'm developing a new project
+
+This project is like Total City
